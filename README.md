@@ -1,5 +1,5 @@
 # 💫 About Me:
-Create a modern dark-themed GitHub Profile README for a 2026 B.Tech CSE student and aspiring Backend Developer. Include an animated typing banner, professional introduction, and clean developer aesthetic. Highlight skills: HTML5, CSS3, JavaScript, React.js, Java, SQL, and GitHub. Showcase projects: Online Payment Fraud Detection using Machine Learning and Grain Palette (Rice Type Classification using Deep Learning). Mention currently learning Data Structures & Algorithms, Spring Boot, Redux, and software testing with Vitest. Tools: VS Code, Eclipse. Add GitHub Stats, Streak Stats, Top Languages cards, and social links for LinkedIn, GitHub, and Email. Use attractive badges, emojis, and responsive sections. Keep the design professional, recruiter-friendly, and visually engaging. Add a motivational tagline focused on continuous learning, backend development, and building scalable applications.
+Passionate Software Developer with a strong interest in Full Stack Development. Skilled in HTML, CSS, JavaScript, React.js, Java, and SQL. Experienced in building Machine Learning and Deep Learning projects. Enthusiastic about solving real-world problems through technology and continuously learning new tools and frameworks to enhance my development skills.
 
 
 ## 🌐 Socials:
